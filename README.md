@@ -2,14 +2,15 @@
 
 ## Guardians of the Elements
 
-This repository is the working home for Milo's fantasy novel **Guardians of the Elements**.
+A Next.js story experience for Milo's fantasy novel. The site is designed to grow with the manuscript and chapter archive.
 
-### Project structure
+### Development
 
-- `manuscript/` — master manuscript and publication-ready versions
-- `chapters/` — individual chapter files
-- `characters/` — character profiles and reference details
-- `world/` — lore, locations, creatures, magic, and world-building
-- `artwork/` — artwork notes and image-reference metadata
+```bash
+npm install
+npm run dev
+```
 
-The story is developed collaboratively and kept under version control so changes can be tracked over time.
+### Deploy
+
+This repository is configured for Vercel deployment via the GitHub integration.
