@@ -10,13 +10,11 @@ Then another.
 
 Milo swallowed.
 
-“Something's coming out.”
+“Something's inside.”
 
 Black Paw sniffed the air.
 
-The chamber was warm now.
-
-The strange symbols on the walls seemed brighter than before, though Milo could not tell whether they were actually glowing or whether his eyes were simply adjusting to the darkness.
+The chamber was warm now. The strange symbols on the walls seemed brighter than before, though Milo could not tell whether they were actually glowing or whether his eyes were simply adjusting to the darkness.
 
 He looked at the egg.
 
@@ -48,112 +46,76 @@ He set the egg gently on the moss.
 
 The crack widened.
 
-A small claw appeared.
+Milo looked at the markings around the chamber again.
+
+They were old—older, he thought, than anything he had ever seen near the cabin.
+
+Something about them made him think of his parents.
+
+They had been adventurers. They had searched for things hidden from ordinary people.
+
+Had they ever found a place like this?
+
+Milo reached toward the egg, then stopped before touching it.
+
+A faint crack sounded from inside.
+
+Milo froze.
+
+Black Paw's ears snapped forward.
+
+Another crack.
+
+The egg began to glow.
+
+Milo whispered the only words he could think of.
+
+“Black Paw…”
+
+The wolf stood beside him.
+
+The shell shuddered.
+
+Milo watched a new crack spread across its surface.
+
+Something pressed from inside.
+
+A tiny claw appeared.
 
 Milo stared.
 
-“A claw?”
+The claw disappeared.
 
-The creature inside pushed harder.
+Then appeared again.
 
-Another piece of shell fell away.
+The egg rocked harder.
 
-Milo's heart began to race.
+Milo smiled despite himself.
 
-He had grown up hearing stories about dragons. Most people treated them as legends from a distant age.
+“It's trying to get out.”
 
-But the markings on the egg were not something a storyteller had drawn.
+Black Paw remained tense, watching the cave entrance as much as the egg.
 
-They were real.
+Then the sound came.
 
-The creature pushed again.
+A deep roar from somewhere far beyond the chamber.
 
-A small face appeared.
+The egg stopped moving.
 
-Two bright eyes opened.
+Milo's smile vanished.
 
-Milo forgot to be afraid.
+Black Paw turned toward the darkness.
 
-The dragon looked at him.
+For several seconds there was silence.
 
-Milo looked back.
+Then the egg began to glow again.
 
-Neither moved.
+Milo looked down.
 
-Then the egg gave one final shudder.
+Whatever was inside was alive.
 
-The shell split.
+And it was waiting.
 
-A tiny dragon tumbled into the moss.
+He did not know yet that the creature would soon have a name.
 
-It was exhausted.
-
-Milo knelt beside it.
-
-“Hello.”
-
-The dragon blinked.
-
-Black Paw moved closer.
-
-The little dragon turned toward him.
-
-For a heartbeat Milo wondered if it would be frightened.
-
-Instead, it gave a tiny chirp.
-
-Black Paw relaxed.
-
-Milo smiled.
-
-“You're not what I expected.”
-
-The dragon stretched one small wing.
-
-Its scales caught the light.
-
-Milo looked at the markings on the egg again.
-
-Something about them felt important.
-
-The dragon made another sound.
-
-Milo held out his hand.
-
-The little creature sniffed his fingers.
-
-Then it pressed its head against his palm.
-
-Milo laughed softly.
-
-“I think you like me.”
-
-Black Paw looked at him as if to say that was obvious.
-
-Milo glanced back at the broken shell.
-
-“We can't leave you here.”
-
-The little dragon chirped.
-
-Milo looked toward the cave entrance.
-
-For the first time, he wondered whether finding the egg had been an accident.
-
-Or whether the egg had been waiting for them.
-
-Outside, somewhere far away, a sound rolled through the ancient forest.
-
-It was deep.
-
-Powerful.
-
-And nothing like the call of an ordinary animal.
-
-The little dragon lifted its head.
-
-Black Paw stared toward the entrance.
-
-Milo's smile disappeared.
-
-Whatever had brought them to the cave, their discovery was not going to remain a secret for long.
+He only knew that the forest had led them here for a reason.
