@@ -16,7 +16,7 @@ export default async function ChapterPage({params}:{params:Promise<{slug:string}
   const index=chapters.findIndex(([, , value])=>value===slug);
   if(index<0) notFound();
   const [number,title]=chapters[index];
-  const markdown=fs.readFileSync(path.join(process.cwd(),"chapters",slug+".md"),"utf8");
+  const markdown=fs.readFileSync(path.join(process.cwd(),"chapters",number+"-"+slug+".md"),"utf8");
   const paragraphs=markdown.split(/\n\s*\n/).map(p=>p.trim()).filter(Boolean);
   const previous=chapters[index-1], next=chapters[index+1];
 
