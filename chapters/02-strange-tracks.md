@@ -96,7 +96,7 @@ It pulsed again.
 
 Something was alive inside.
 
-He slowly moved closer.
+Milo slowly moved closer.
 
 “I think it knows we're here.”
 
@@ -106,28 +106,12 @@ Milo looked at the strange markings around the chamber.
 
 He had never seen writing like it.
 
-For some reason, the sight of the egg made him think of his parents.
+The egg pulsed once more.
 
-They had searched for things hidden from ordinary people.
+Milo and Black Paw stared at it in silence.
 
-Had they ever found a place like this?
+Neither of them knew what they had found.
 
-Milo reached toward the egg, then stopped before touching it.
+But Milo knew one thing.
 
-A faint crack sounded from inside.
-
-Milo froze.
-
-Black Paw's ears snapped forward.
-
-Another crack.
-
-The egg began to glow.
-
-Milo whispered the only words he could think of.
-
-“Black Paw…”
-
-The wolf stood beside him.
-
-Together they watched the shell begin to break.
+They had discovered something that did not belong in an ordinary forest.
