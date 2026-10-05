@@ -16,6 +16,10 @@ Verdant turned sharply.
 
 Azuren raised a wall of water as strange creatures emerged from the opening.
 
+They moved like shadows given shape, and each wore the same dark mark that had appeared in the village.
+
+“Umbra's creatures,” Verdant said.
+
 Milo stepped forward.
 
 “We can't let them reach the valley.”
@@ -32,7 +36,7 @@ Pain shot through his arms.
 
 Black Paw caught him.
 
-“I’m okay,” Milo said.
+“I'm okay,” Milo said.
 
 Then the portal shook.
 
