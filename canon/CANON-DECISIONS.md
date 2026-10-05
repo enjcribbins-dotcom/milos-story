@@ -29,13 +29,21 @@ This file records decisions made after comparing recovered source material.
 21. **Ancient War:** the Guardians and Umbra fought an ancient war before Milo's birth; the relics existed then and were hidden afterward.
 22. **Parents' journal contents:** the journal contains Milo's parents' names, maps, notes, drawings of dragons, and references to the elemental relics. It establishes that his parents knew about the Guardians and Umbra and were searching for a way to protect the relics and Milo. Later pages/messages can reveal additional information as the story requires.
 
+### 2026-10-05 — Book 1 continuity pass
+
+23. **Ember's hatching:** Ember hatches on-page in Chapter 4 before Milo and Black Paw take him home.
+24. **The egg's map:** the markings connected to Ember's egg form a path toward the Ancient Forest. The map is intended to guide Ember after hatching; Ember can activate it because of his connection to the egg.
+25. **Umbra's description of Milo:** Umbra says Milo carries the **power** of the old Guardians, not established literal Guardian blood.
+26. **Portal creatures:** the creatures emerging from the portal in Chapter 11 are servants of Umbra, marked by his darkness.
+27. **Eight relics in the climax:** by Chapter 19, the Nature, Water, Fire, and Star relics are represented by the active Guardians with Milo. The Lightning, Ice, and Earth relics answer from afar, while the Shadow relic is present through Umbra. All eight are therefore established as part of the final confrontation without requiring every future Guardian to join Milo in Book 1.
+
 ### Deliberate non-decisions
 
 The following are **not** promoted to settled canon yet:
 
 - Exact physical appearance of characters where the recovered text says the details were assistant-generated.
 - Exact powers of secondary characters and dragons.
-- Exact relic powers.
+- Exact relic powers beyond what is demonstrated in the current manuscript.
 - Exact membership and hierarchy of the Shadow Legion.
 - Exact roles/allegiance of Voltaris and Glaciera.
 - Exact circumstances of Milo's parents' deaths, including whether Umbra personally killed them.
@@ -54,6 +62,4 @@ The trapped-dragon story remains preserved in the recovered archives as historic
 
 ### Manuscript status
 
-Chapters 1–4 are now working prose drafts assembled from the recovered evidence. They are intentionally editable and are not presented as immutable final canon.
-
-The detailed 20-chapter outline remains historical planning material until the remaining chapters are drafted and reviewed.
+Chapters 1–20 are working prose drafts assembled from the recovered evidence and are intentionally editable. They are not presented as immutable final canon.
