@@ -40,6 +40,6 @@ Milo smiled.
 
 For the first time in days, the group had a plan.
 
-But Black Paw remained silent.
+But Milo could not stop thinking about the journal.
 
-Milo knew his secret was connected to the journey ahead.
+Somewhere inside it was the truth about his parents—and perhaps the answer to why Black Paw had kept so much from him.
