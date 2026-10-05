@@ -27,6 +27,7 @@ This file records decisions made after comparing recovered source material.
 19. **Goblin Tribe:** independent from the Shadow Legion.
 20. **Relics:** eight elemental relics, one for each major element/dragon, are part of the historical story framework.
 21. **Ancient War:** the Guardians and Umbra fought an ancient war before Milo's birth; the relics existed then and were hidden afterward.
+22. **Parents' journal contents:** the journal contains Milo's parents' names, maps, notes, drawings of dragons, and references to the elemental relics. It establishes that his parents knew about the Guardians and Umbra and were searching for a way to protect the relics and Milo. Later pages/messages can reveal additional information as the story requires.
 
 ### Deliberate non-decisions
 
@@ -39,7 +40,7 @@ The following are **not** promoted to settled canon yet:
 - Exact roles/allegiance of Voltaris and Glaciera.
 - Exact circumstances of Milo's parents' deaths, including whether Umbra personally killed them.
 - Exact fate of Umbra after the Ancient Guardian War.
-- Exact contents, hiding place and message of the parents' journal.
+- Exact hiding place and full message of the parents' journal.
 - Exact rules for portals.
 - Exact ending/sequel hook.
 
