@@ -8,7 +8,7 @@ Umbra.
 
 Shadow moved around him like smoke.
 
-“You carry the blood of the old Guardians,” he said.
+“You carry the power of the old Guardians,” he said.
 
 Milo's heart raced. “What do you want?”
 
