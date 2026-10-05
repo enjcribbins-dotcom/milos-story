@@ -1,8 +1,110 @@
 # Ember Hatches
 
-The little dragon slept for most of the journey home.
+The egg trembled.
 
-Milo carried him carefully, wrapped in the soft cloth from his pack.
+Milo and Black Paw stood perfectly still.
+
+A thin crack ran across the shell.
+
+Then another.
+
+Milo swallowed.
+
+“Something's inside.”
+
+Black Paw sniffed the air.
+
+The chamber was warm now. The strange symbols on the walls seemed brighter than before.
+
+The egg rocked again.
+
+A piece of shell fell away.
+
+Something small pushed against the opening.
+
+A tiny claw appeared.
+
+Milo stared.
+
+The claw disappeared.
+
+Then appeared again.
+
+The shell cracked wider.
+
+A little snout pushed through.
+
+Milo took a step back.
+
+“Black Paw…”
+
+The wolf stayed beside him, tense but watchful.
+
+With one final crack, the top of the shell broke open.
+
+A tiny dragon tumbled onto the moss.
+
+It was red and gold, with small wings folded against its body.
+
+For a moment, it lay perfectly still.
+
+Then it sneezed.
+
+A tiny flame burst from its nose.
+
+Milo jumped.
+
+The dragon blinked at him.
+
+Milo smiled.
+
+“Hello.”
+
+The little dragon made a soft chirping sound.
+
+Milo crouched beside him.
+
+“You're a dragon.”
+
+The dragon stretched his wings.
+
+Black Paw lowered his head and sniffed him carefully.
+
+The dragon sniffed back.
+
+Milo laughed.
+
+“I think he likes you.”
+
+The dragon tried to stand.
+
+His legs wobbled.
+
+Milo held out his hands.
+
+“Easy.”
+
+The little dragon climbed into his arms.
+
+He was warm.
+
+Almost like holding a living ember.
+
+Milo looked at Black Paw.
+
+“We can't leave him here.”
+
+Black Paw gave a quiet huff.
+
+Milo smiled.
+
+“That's what I thought.”
+
+He wrapped the dragon carefully in the soft cloth from his pack.
+
+The journey home was quiet.
+
+The little dragon slept for most of the way.
 
 Black Paw walked ahead.
 
