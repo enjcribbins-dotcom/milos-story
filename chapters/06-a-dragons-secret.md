@@ -76,25 +76,31 @@ At its centre was a symbol Milo did not understand.
 
 Beyond it lay a forest much deeper than the one around his cabin.
 
-Black Paw growled softly.
+Milo studied the map.
+
+“It isn't showing us where you came from,” he said slowly. “It's showing us where you're meant to go.”
+
+Ember chirped.
+
+Black Paw stared at the ancient symbol.
+
+Milo suddenly understood something.
+
+The egg had not been hidden there by accident.
+
+Whatever had created the markings had left a path for Ember to follow when he hatched.
+
+And somehow, Ember had known how to wake it.
 
 “The Ancient Forest,” Milo guessed.
 
-Ember chirped.
+Ember chirped again.
 
 Milo looked at him.
 
 “You know it?”
 
 The dragon lowered his head.
-
-Milo suddenly understood something.
-
-Ember had not simply been lost in the cave.
-
-He had come from somewhere.
-
-And whatever had hidden his egg there had wanted him to be found.
 
 Milo thought about his parents.
 
