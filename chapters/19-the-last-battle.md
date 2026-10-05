@@ -32,7 +32,25 @@ Fire.
 
 Star.
 
-Their powers met.
+Far beyond the valley, three more relics answered.
+
+Lightning.
+
+Ice.
+
+Earth.
+
+Their light appeared for only a moment, shining through the darkness like distant stars.
+
+At the centre of the portal, the Shadow relic burned with Umbra's power.
+
+All eight relics were present.
+
+Not all of them had chosen a Guardian who could stand beside Milo yet.
+
+But their power was connected.
+
+The Guardians' powers met.
 
 Not as separate weapons.
 
